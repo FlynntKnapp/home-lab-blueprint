@@ -1,2 +1,3 @@
-# home-lab-blueprint
-Public Infrastructure-as-Code blueprint for my home lab — reproducible patterns, secure defaults, and portfolio-ready documentation.
+# Home Lab Blueprint
+
+A sanitized, reusable home-lab IaC blueprint showcasing Terraform/Ansible/Kubernetes-style infrastructure patterns with security-first practices.
